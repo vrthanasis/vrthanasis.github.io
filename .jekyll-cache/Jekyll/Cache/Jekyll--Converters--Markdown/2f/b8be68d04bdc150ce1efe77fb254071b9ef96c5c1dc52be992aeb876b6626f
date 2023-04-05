@@ -1,0 +1,68 @@
+I"~<h1 id="my-references">My References</h1>
+
+<h2 id="the-default-bibliography">The default Bibliography</h2>
+
+<ol class="bibliography"><li><div class="text-justify">
+    <span id="KALAMPOKIS201956">Kalampokis, E., Zeginis, D., &amp; Tarabanis, K. (2019). On modeling linked open statistical data. <i>Journal of Web Semantics</i>, <i>55</i>, 56–68. https://doi.org/https://doi.org/10.1016/j.websem.2018.11.002</span>
+</div>
+
+
+
+<div>
+    
+    <span><a href="http://doi.org/https://doi.org/10.1016/j.websem.2018.11.002">doi</a></span>
+    
+    
+</div>
+<div>
+    
+</div>
+
+<div><pre>@article{KALAMPOKIS201956,
+  title = {On modeling linked open statistical data},
+  journal = {Journal of Web Semantics},
+  volume = {55},
+  pages = {56-68},
+  year = {2019},
+  issn = {1570-8268},
+  doi = {https://doi.org/10.1016/j.websem.2018.11.002},
+  url = {https://www.sciencedirect.com/science/article/pii/S1570826818300544},
+  author = {Kalampokis, Evangelos and Zeginis, Dimitris and Tarabanis, Konstantinos},
+  keywords = {Open data, Linked open statistical data, Modeling challenges, Delphi method}
+}
+</pre></div>
+</li></ol>
+
+<h2 id="secondary-references">Secondary References</h2>
+
+<ol class="bibliography"><li><div class="text-justify">
+    <span id="KALAMPOKIS201956">Kalampokis, E., Zeginis, D., &amp; Tarabanis, K. (2019). On modeling linked open statistical data. <i>Journal of Web Semantics</i>, <i>55</i>, 56–68. https://doi.org/https://doi.org/10.1016/j.websem.2018.11.002</span>
+</div>
+
+
+
+<div>
+    
+    <span><a href="http://doi.org/https://doi.org/10.1016/j.websem.2018.11.002">doi</a></span>
+    
+    
+</div>
+<div>
+    
+</div>
+
+<div><pre>@article{KALAMPOKIS201956,
+  title = {On modeling linked open statistical data},
+  journal = {Journal of Web Semantics},
+  volume = {55},
+  pages = {56-68},
+  year = {2019},
+  issn = {1570-8268},
+  doi = {https://doi.org/10.1016/j.websem.2018.11.002},
+  url = {https://www.sciencedirect.com/science/article/pii/S1570826818300544},
+  author = {Kalampokis, Evangelos and Zeginis, Dimitris and Tarabanis, Konstantinos},
+  keywords = {Open data, Linked open statistical data, Modeling challenges, Delphi method}
+}
+</pre></div>
+</li></ol>
+:ET
