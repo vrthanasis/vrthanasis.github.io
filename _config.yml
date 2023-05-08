@@ -56,8 +56,8 @@ scholar:
   group_order: ascending
 
   source: bibliography
-  **/*.bib{,tex}
-  bibliography: reference.bib
+ 
+
   bibliography_template: bib
 
   replace_strings: true
