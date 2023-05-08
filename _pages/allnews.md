@@ -19,4 +19,4 @@ Secondary References
 
 
 
-{% bibliography --query @*[year=2021] %}
+{% bibliography --query @*[year>1990] %}
