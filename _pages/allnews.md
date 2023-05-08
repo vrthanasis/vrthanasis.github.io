@@ -17,4 +17,6 @@ The default Bibliography
 Secondary References
 --------------------
 
-{% bibliography --file secondary %}
+
+
+{% bibliography --query @*[year=2021] %}
