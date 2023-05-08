@@ -18,4 +18,4 @@ Secondary References
 --------------------
 
 
-{% bibliography --query @*[year=2019] %}
+{% bibliography --query @*[year>2019] %}
