@@ -46,6 +46,26 @@ kramdown:
 gems: ['jekyll/scholar']
 
 scholar:
-   source: .
-   style: ./simple-ieee.csl
-   bibliography_list_tag: "ul.no-bullet"
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  group_by: none
+  group_order: ascending
+
+  source: bibliography
+  bibliography: reference.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
