@@ -17,6 +17,4 @@ The default Bibliography
 Secondary References
 --------------------
 
-
-
-{% bibliography %}
+{% bibliography --file secondary %}
