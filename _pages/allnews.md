@@ -18,4 +18,4 @@ Secondary References
 --------------------
 
 
-{% bibliography --f secondary --q @*[year=2013] %}
+{% bibliography --f *.bib}
