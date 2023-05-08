@@ -56,7 +56,7 @@ scholar:
   group_order: ascending
 
   source: bibliography
-  bibliography: "".bib
+  bibliography: ""
   bibliography_template: ""
 
   replace_strings: true
