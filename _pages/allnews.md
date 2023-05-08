@@ -17,4 +17,5 @@ The default Bibliography
 Secondary References
 --------------------
 
-{% bibliography --file secondary %}
+
+{% bibliography -f secondary -q @*[year=1999] %}
