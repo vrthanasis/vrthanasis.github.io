@@ -18,4 +18,4 @@ Secondary References
 --------------------
 
 
-{% bibliography -f secondary -q @*[year=1999] %}
+{% bibliography --query @*[year=1999] %}
