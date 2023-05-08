@@ -13,8 +13,7 @@ The default Bibliography
 ------------------------
 
 {% bibliography %}
-{% bibliography --file bib1 %}
-{% bibliography --file bib2 %}
+
 Secondary References
 --------------------
 
