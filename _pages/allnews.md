@@ -9,16 +9,7 @@ permalink: /allnews
 {{ page.title }}
 ================
 
-The default Bibliography
-------------------------
-
 {% bibliography %}
-
-Secondary References
---------------------
-
-{% bibliography --file secondary %}
-
 {% bibliography --file S2215036621000845 %}
 {% bibliography --file 1 %}
 {% bibliography --file 2 %}
