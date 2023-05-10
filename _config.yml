@@ -57,14 +57,14 @@ scholar:
 
   source: bibliography
   bibliography: reference.bib
-
+  bibliography_template: bib
   replace_strings: true
   join_strings:    true
 
   use_raw_bibtex_entry: false
 
   details_dir:    bibliography
-  details_layout: bib.html
+  details_layout: bibtex.html
   details_link:   Details
 
 
