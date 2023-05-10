@@ -8,7 +8,7 @@ permalink: /allnews
 
 {{ page.title }}
 ================
-<h1 class="bibliography" style="counter-reset:bibitem 10">
+
 {% bibliography %}
 {% bibliography --file S2215036621000845 %}
 {% bibliography --file 1 %}
