@@ -57,7 +57,7 @@ scholar:
 
   source: bibliography
   bibliography: reference.bib
-  bibliography_template: bibtex
+  # bibliography_template: bibtex
   replace_strings: true
   join_strings:    true
 
