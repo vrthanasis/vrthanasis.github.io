@@ -8,7 +8,7 @@ permalink: /allnews
 
 {{ page.title }}
 ================
-ol.bibliography {  list-style-type: none; }
+
 {% bibliography %}
 {% bibliography --file S2215036621000845 %}
 {% bibliography --file 1 %}
