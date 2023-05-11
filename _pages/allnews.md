@@ -17,3 +17,5 @@ permalink: /allnews
 {% bibliography --file 6 %}
 {% bibliography --file 8 %}
 {% bibliography --file 9 %}
+{% bibliography --file 10 %}
+{% bibliography --file 11 %}
