@@ -3,7 +3,7 @@ title: References
 layout: gridlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false
-permalink: /allnews
+permalink: /allpublications
 ---
 
 {{ page.title }}
