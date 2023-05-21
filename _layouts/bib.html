@@ -5,7 +5,7 @@
 
 {% if entry.doi %}
 <p>
-  DOI: <a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a>
+  <button class="doi-button" onclick="window.location.href='https://doi.org/{{ entry.doi }}'"><span> Click for doi Link</span></button>
 </p>
 {% endif %}
 
